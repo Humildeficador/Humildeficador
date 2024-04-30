@@ -21,7 +21,7 @@
 ##
 
 <div align="center">
-  <img align="center" alt="Joao-GitHub-Stats" src="https://github-readme-stats.vercel.app/api?username=humildeficador&show_icons=true&theme=dark">
+  <img align="center" alt="Joao-GitHub-Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humildeficador&layout=compact&theme=dark">
 </div>
 
 ##
