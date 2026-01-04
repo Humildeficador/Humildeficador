@@ -21,7 +21,7 @@
 ##
 
 <div align="center">
-  <img align="center" alt="FrirenVSAura" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=humildeficador&layout=compact&theme=dark](https://i.pinimg.com/originals/f3/64/bd/f364bdbbb8e62bc5199b72c6a53a5f99.gif)">
+  <img align="center" alt="FrirenVSAura" src="https://i.pinimg.com/originals/f3/64/bd/f364bdbbb8e62bc5199b72c6a53a5f99.gif">
 </div>
 
 ##
